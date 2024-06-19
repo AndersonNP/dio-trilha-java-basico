@@ -4,5 +4,7 @@ public class ExemploFor {
         for(int carneirinhos = 1; carneirinhos <= 20; carneirinhos++){
             System.out.println("Carneirinho número " + carneirinhos);
         }
+        System.out.println("Joãozinho dormiu");
+
     }
 }
